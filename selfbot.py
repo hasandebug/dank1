@@ -71,4 +71,4 @@ async def farm(ctx):
 
 
 
-bot.run(token, bot=False)
+bot.run(process.env.token, bot=False)
