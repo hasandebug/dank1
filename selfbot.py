@@ -13,7 +13,7 @@ import datetime
 
 print("Starting please wait.")
 
-token = "ODA3MjMzMTA1NzM0Nzk1MzI0.YKYlRw.yI1rcyVbWmo_IXRLcORuJK1Wqq8"
+
 discord_id = "383303346175606784" # Put your main discord accounts id here, the account has to be in the server you're sending the commmand in.
 bot = commands.Bot("/--/", self_bot=True)
 now = datetime.datetime.now()
